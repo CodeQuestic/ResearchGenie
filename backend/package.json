@@ -1,0 +1,29 @@
+{
+  "name": "researchgenie-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Powered Research Assistant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeQuestic/ResearchGenie.git"
+  },
+  "keywords": [
+    "Research",
+    "AI",
+    "Assistant",
+    "AI",
+    "Research",
+    "Assistant",
+    "Research",
+    "Tool"
+  ],
+  "author": "Saurabh Udupi, Rakshith Acharya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CodeQuestic/ResearchGenie/issues"
+  },
+  "homepage": "https://github.com/CodeQuestic/ResearchGenie#readme"
+}
